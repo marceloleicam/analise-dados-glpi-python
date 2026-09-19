@@ -1,0 +1,43 @@
+ticket_id,opened_at,first_response_at,resolved_at,status,priority,category,technician,requester_department,sla_target_hours,satisfaction_score
+INC-1001,2026-09-01 08:10,2026-09-01 08:28,2026-09-01 09:40,Fechado,Alta,Acesso e senha,Ana Lima,Financeiro,4,5
+INC-1002,2026-09-01 09:05,2026-09-01 09:50,2026-09-01 15:20,Solucionado,Média,Software,Bruno Costa,Recursos Humanos,8,4
+INC-1003,2026-09-01 10:20,2026-09-01 10:35,2026-09-01 13:10,Fechado,Crítica,Rede,Carla Dias,Operações,2,3
+INC-1004,2026-09-02 07:55,2026-09-02 08:40,2026-09-02 11:45,Solucionado,Alta,Hardware,Diego Martins,Comercial,4,5
+INC-1005,2026-09-02 09:30,2026-09-02 10:05,2026-09-02 13:00,Fechado,Média,Acesso e senha,Ana Lima,Administrativo,8,5
+INC-1006,2026-09-02 11:15,2026-09-02 12:20,2026-09-03 10:30,Fechado,Baixa,Solicitação de serviço,Bruno Costa,Marketing,24,4
+INC-1007,2026-09-03 08:00,2026-09-03 08:18,2026-09-03 09:25,Solucionado,Crítica,Sistemas corporativos,Carla Dias,Financeiro,2,5
+INC-1008,2026-09-03 09:40,2026-09-03 10:50,2026-09-03 18:10,Fechado,Média,Software,Diego Martins,Operações,8,3
+INC-1009,2026-09-03 13:10,2026-09-03 13:35,2026-09-03 16:20,Fechado,Alta,Rede,Ana Lima,Comercial,4,4
+INC-1010,2026-09-04 08:25,2026-09-04 09:15,2026-09-04 12:00,Solucionado,Média,Hardware,Bruno Costa,Recursos Humanos,8,5
+INC-1011,2026-09-04 10:10,2026-09-04 12:45,2026-09-05 16:30,Fechado,Baixa,Solicitação de serviço,Diego Martins,Administrativo,24,2
+INC-1012,2026-09-04 14:30,2026-09-04 14:45,2026-09-04 16:50,Fechado,Crítica,Acesso e senha,Carla Dias,Diretoria,2,4
+INC-1013,2026-09-05 08:05,2026-09-05 08:20,2026-09-05 10:40,Solucionado,Alta,Sistemas corporativos,Ana Lima,Financeiro,4,5
+INC-1014,2026-09-05 09:50,2026-09-05 10:30,2026-09-05 17:10,Fechado,Média,Software,Bruno Costa,Marketing,8,4
+INC-1015,2026-09-06 11:20,2026-09-06 12:05,2026-09-07 10:00,Fechado,Baixa,Hardware,Diego Martins,Operações,24,4
+INC-1016,2026-09-07 07:40,2026-09-07 08:10,2026-09-07 09:05,Solucionado,Crítica,Rede,Carla Dias,Comercial,2,5
+INC-1017,2026-09-07 10:00,2026-09-07 10:35,2026-09-07 15:50,Fechado,Alta,Hardware,Ana Lima,Administrativo,4,3
+INC-1018,2026-09-08 08:35,2026-09-08 09:00,2026-09-08 10:10,Fechado,Média,Acesso e senha,Bruno Costa,Recursos Humanos,8,5
+INC-1019,2026-09-08 09:15,2026-09-08 10:40,2026-09-09 12:30,Solucionado,Baixa,Solicitação de serviço,Diego Martins,Marketing,24,3
+INC-1020,2026-09-09 08:00,2026-09-09 08:25,2026-09-09 11:50,Fechado,Alta,Sistemas corporativos,Carla Dias,Financeiro,4,5
+INC-1021,2026-09-09 13:20,2026-09-09 14:00,2026-09-09 19:10,Solucionado,Média,Software,Ana Lima,Operações,8,4
+INC-1022,2026-09-10 07:50,2026-09-10 08:05,2026-09-10 09:55,Fechado,Crítica,Rede,Bruno Costa,Comercial,2,5
+INC-1023,2026-09-10 10:35,2026-09-10 11:30,2026-09-11 15:20,Fechado,Baixa,Hardware,Diego Martins,Administrativo,24,2
+INC-1024,2026-09-11 08:45,2026-09-11 09:10,2026-09-11 12:15,Solucionado,Alta,Acesso e senha,Carla Dias,Recursos Humanos,4,5
+INC-1025,2026-09-11 11:30,2026-09-11 12:10,2026-09-11 17:25,Fechado,Média,Sistemas corporativos,Ana Lima,Financeiro,8,4
+INC-1026,2026-09-12 09:10,2026-09-12 10:30,2026-09-13 12:50,Solucionado,Baixa,Solicitação de serviço,Bruno Costa,Marketing,24,3
+INC-1027,2026-09-12 14:00,2026-09-12 14:25,2026-09-12 17:10,Fechado,Alta,Software,Diego Martins,Operações,4,5
+INC-1028,2026-09-13 08:20,2026-09-13 08:35,2026-09-13 09:30,Fechado,Crítica,Rede,Carla Dias,Comercial,2,5
+INC-1029,2026-09-13 10:45,2026-09-13 11:20,2026-09-13 15:15,Solucionado,Média,Hardware,Ana Lima,Administrativo,8,4
+INC-1030,2026-09-14 08:05,2026-09-14 08:30,2026-09-14 11:20,Fechado,Alta,Acesso e senha,Bruno Costa,Recursos Humanos,4,5
+INC-1031,2026-09-14 09:25,2026-09-14 10:00,,Em atendimento,Crítica,Sistemas corporativos,Carla Dias,Financeiro,2,
+INC-1032,2026-09-14 13:40,2026-09-14 14:30,,Pendente,Média,Software,Diego Martins,Marketing,8,
+INC-1033,2026-09-15 07:50,2026-09-15 08:10,,Em atendimento,Alta,Rede,Ana Lima,Operações,4,
+INC-1034,2026-09-15 10:20,2026-09-15 11:00,,Aberto,Baixa,Solicitação de serviço,Bruno Costa,Comercial,24,
+INC-1035,2026-09-16 08:15,2026-09-16 08:35,,Em atendimento,Alta,Hardware,Carla Dias,Administrativo,4,
+INC-1036,2026-09-16 09:40,2026-09-16 10:20,,Pendente,Média,Sistemas corporativos,Diego Martins,Recursos Humanos,8,
+INC-1037,2026-09-16 15:05,2026-09-16 15:30,,Aberto,Crítica,Rede,Ana Lima,Financeiro,2,
+INC-1038,2026-09-17 08:00,2026-09-17 08:20,2026-09-17 09:35,Fechado,Crítica,Acesso e senha,Bruno Costa,Operações,2,5
+INC-1039,2026-09-17 09:10,2026-09-17 09:55,,Em atendimento,Alta,Software,Carla Dias,Comercial,12,
+INC-1040,2026-09-17 11:30,2026-09-17 12:20,,Aberto,Média,Hardware,Diego Martins,Administrativo,12,
+INC-1041,2026-09-17 15:45,2026-09-17 16:10,,Novo,Baixa,Solicitação de serviço,Ana Lima,Marketing,24,
+INC-1042,2026-09-17 18:00,,,Novo,Média,Acesso e senha,Não atribuído,Recursos Humanos,8,
